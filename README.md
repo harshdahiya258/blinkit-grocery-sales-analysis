@@ -19,4 +19,4 @@ I created this Power BI dashboard to explore grocery sales data and compare resu
 ## Note
 
 The dataset doesn’t include transaction dates, so the report compares products and outlets rather than showing sales over time.
-![BlinkIT Grocery Sales Dashboard](dashboard.png)
+[View dashboard screenshot](./dashboard.png)
